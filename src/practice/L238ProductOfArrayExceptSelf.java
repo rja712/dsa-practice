@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Arrays;
 
-public class ProductOfArrayExceptSelf {
+public class L238ProductOfArrayExceptSelf {
 
     public static void main(String[] args) {
 

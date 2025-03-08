@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class SubArraySumEqualsK {
+public class L560SubArraySumEqualsK {
 
     public static void main(String[] args) {
 

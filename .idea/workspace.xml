@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f55f90-f70a-431d-a9c1-9ddcb356117f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/SubArraySumEqualsK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="86f55f90-f70a-431d-a9c1-9ddcb356117f" name="Changes" comment="SubArraySumEqualsK">
+      <change afterPath="$PROJECT_DIR$/src/practice/L930BinarySubArrayWithSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/L238ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/SubArraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/L560SubArraySumEqualsK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -35,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.L930BinarySubArrayWithSum.executor": "Run",
     "Application.SubArraySumEqualsK.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,9 +52,27 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="SubArraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.SubArraySumEqualsK" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.L930BinarySubArrayWithSum">
+    <configuration name="L560SubArraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.L560SubArraySumEqualsK" />
+      <module name="dsa-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L930BinarySubArrayWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.L930BinarySubArrayWithSum" />
       <module name="dsa-practice" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubArraySumEqualsK" />
+        <item itemvalue="Application.L930BinarySubArrayWithSum" />
+        <item itemvalue="Application.L560SubArraySumEqualsK" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1741461727062</updated>
     </task>
+    <task id="LOCAL-00001" summary="SubArraySumEqualsK">
+      <option name="closed" value="true" />
+      <created>1741467656666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741467656667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SubArraySumEqualsK" />
+    <option name="LAST_COMMIT_MESSAGE" value="SubArraySumEqualsK" />
   </component>
 </project>
