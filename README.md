@@ -2,7 +2,7 @@
 
 ## Easy Problems
 
-- **Range Sum Query - Immutable** - Basic Prefix Sum ([LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/))
+- ✅ **Range Sum Query - Immutable** - Basic Prefix Sum ([LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/))
 - **Find Pivot Index** - Left Sum + Right Sum ([LeetCode 724](https://leetcode.com/problems/find-pivot-index/))
 - **Two Sum** - Basic HashMap Lookup ([LeetCode 1](https://leetcode.com/problems/two-sum/))
 - **Largest Substring Between Two Equal Characters** - HashMap + Indices ([LeetCode 1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/))
