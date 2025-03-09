@@ -1,9 +1,6 @@
 package practice;
 
-import java.util.HashMap;
-import java.util.Map;
-
-public class L3ValidAnagram {
+public class L242ValidAnagram {
     public static void main(String[] args) {
         String s1 = "listen";
         String s2 = "silent";

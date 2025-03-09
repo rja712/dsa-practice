@@ -2,7 +2,7 @@ package practice;
 
 import java.util.*;
 
-public class L3GroupAnagram {
+public class L49GroupAnagram {
     public static void main(String[] args) {
         String[] words = {"bdddddddddd", "bbbbbbbbbbc"};
 
