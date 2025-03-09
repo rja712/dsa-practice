@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f55f90-f70a-431d-a9c1-9ddcb356117f" name="Changes" comment="L1, L1624">
-      <change afterPath="$PROJECT_DIR$/src/practice/L523ContinuousSubarraySum.java" afterDir="false" />
+    <list default="true" id="86f55f90-f70a-431d-a9c1-9ddcb356117f" name="Changes" comment="L3">
+      <change afterPath="$PROJECT_DIR$/src/practice/L3GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/L3ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -40,6 +41,7 @@
     "Application.L1624LargestSubstringBetweenEqualChar.executor": "Run",
     "Application.L1TwoSums.executor": "Run",
     "Application.L303RangeSum.executor": "Run",
+    "Application.L3ValidAnagram.executor": "Run",
     "Application.L523ContinousSubarraySum.executor": "Run",
     "Application.L523ContinuousSubarraySum.executor": "Run",
     "Application.L930BinarySubArrayWithSum.executor": "Run",
@@ -60,7 +62,7 @@
       <recent name="practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L523ContinuousSubarraySum">
+  <component name="RunManager" selected="Application.L3GroupAnagram">
     <configuration name="L1624LargestSubstringBetweenEqualChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.L1624LargestSubstringBetweenEqualChar" />
       <module name="dsa-practice" />
@@ -74,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L1TwoSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.L1TwoSums" />
+    <configuration name="L3GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.L3GroupAnagram" />
       <module name="dsa-practice" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L303RangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.L303RangeSum" />
+    <configuration name="L3ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.L3ValidAnagram" />
       <module name="dsa-practice" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L3GroupAnagram" />
+        <item itemvalue="Application.L3ValidAnagram" />
         <item itemvalue="Application.L523ContinuousSubarraySum" />
         <item itemvalue="Application.L523ContinousSubarraySum" />
         <item itemvalue="Application.L1624LargestSubstringBetweenEqualChar" />
-        <item itemvalue="Application.L1TwoSums" />
-        <item itemvalue="Application.L303RangeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741529682070</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="L523">
+      <option name="closed" value="true" />
+      <created>1741546741243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741546741243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +203,8 @@
     <MESSAGE value="L930BinarySubArrayWithSum" />
     <MESSAGE value="L303RangeSum" />
     <MESSAGE value="L1, L1624" />
-    <option name="LAST_COMMIT_MESSAGE" value="L1, L1624" />
+    <MESSAGE value="L523" />
+    <MESSAGE value="L3" />
+    <option name="LAST_COMMIT_MESSAGE" value="L3" />
   </component>
 </project>

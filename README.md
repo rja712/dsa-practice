@@ -13,7 +13,7 @@
 - Find All Anagrams in a String - HashMap Frequency Count ([LeetCode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
 - Longest Substring Without Repeating Characters - Sliding Window + HashSet ([LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/))
 - Group Anagrams - Hashing with Sorting ([LeetCode 49](https://leetcode.com/problems/group-anagrams/))
-- Valid Anagram - HashMap Frequency Count ([LeetCode 242](https://leetcode.com/problems/valid-anagram/))
+- ✅ Valid Anagram - HashMap Frequency Count ([LeetCode 242](https://leetcode.com/problems/valid-anagram/))
 
 ## 📌 Sliding Window
 - Longest Substring with At Most K Distinct Characters - HashMap + Sliding Window ([LeetCode 340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/))
