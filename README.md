@@ -10,8 +10,8 @@
 - ✅ Continuous Subarray Sum - Prefix Sum + HashMap ([LeetCode 523](https://leetcode.com/problems/continuous-subarray-sum/description/))
 
 ## 📌 Strings
-- Find All Anagrams in a String - HashMap Frequency Count ([LeetCode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
-- Longest Substring Without Repeating Characters - Sliding Window + HashSet ([LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/))
+- ✅ Find All Anagrams in a String - HashMap Frequency Count ([LeetCode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
+- ✅ Longest Substring Without Repeating Characters - Sliding Window + HashSet ([LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/))
 - ✅ Group Anagrams - Hashing with Sorting ([LeetCode 49](https://leetcode.com/problems/group-anagrams/))
 - ✅ Valid Anagram - HashMap Frequency Count ([LeetCode 242](https://leetcode.com/problems/valid-anagram/))
 
