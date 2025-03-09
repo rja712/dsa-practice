@@ -4,7 +4,7 @@ import java.util.*;
 
 public class L3GroupAnagram {
     public static void main(String[] args) {
-        String[] words = {"eat", "tea", "tan", "ate", "nat", "bat"};
+        String[] words = {"bdddddddddd", "bbbbbbbbbbc"};
 
         List<List<String>> result = groupAnagrams(words);
 
@@ -30,9 +30,9 @@ public class L3GroupAnagram {
         for (int i = 0; i < str.length(); i++) {
             bitMap[str.charAt(i) - 'a']++;
         }
-        StringBuilder sb = new StringBuilder(26);
+        StringBuilder sb = new StringBuilder();
         for (int bit : bitMap) {
-            sb.append(bit);
+            sb.append(bit).append(',');
         }
         return sb.toString();
 
