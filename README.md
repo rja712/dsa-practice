@@ -16,8 +16,7 @@
 - ✅ Valid Anagram - HashMap Frequency Count ([LeetCode 242](https://leetcode.com/problems/valid-anagram/))
 
 ## 📌 Sliding Window
-- Longest Substring with At Most K Distinct Characters - HashMap + Sliding Window ([LeetCode 340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/))
-- Minimum Window Substring - Optimized Sliding Window + HashMap ([LeetCode 76](https://leetcode.com/problems/minimum-window-substring/))
+- ✅ Longest Substring with At Most K Distinct Characters - HashMap + Sliding Window ([LeetCode 340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/))
 - Longest Repeating Character Replacement - Two Pointers + Sliding Window ([LeetCode 424](https://leetcode.com/problems/longest-repeating-character-replacement/))
 
 ## 📌 Greedy Algorithms
