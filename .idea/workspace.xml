@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f55f90-f70a-431d-a9c1-9ddcb356117f" name="Changes" comment="clean up" />
+    <list default="true" id="86f55f90-f70a-431d-a9c1-9ddcb356117f" name="Changes" comment="clean up">
+      <change afterPath="$PROJECT_DIR$/src/dsa/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/TreePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +30,12 @@
     &quot;assignee&quot;: &quot;rja712&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rja712/dsa-practice.git",
-    "accountId": "007bfdb9-0519-41fd-a394-81c3261fd42e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rja712/dsa-practice.git&quot;,
+    &quot;accountId&quot;: &quot;007bfdb9-0519-41fd-a394-81c3261fd42e&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,44 +47,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.L131PalindromePartitioning.executor": "Run",
-    "Application.L1624LargestSubstringBetweenEqualChar.executor": "Run",
-    "Application.L1TwoSums.executor": "Run",
-    "Application.L303RangeSum.executor": "Run",
-    "Application.L340LongestSubstringWithAtMostKDistinctCharacters.executor": "Run",
-    "Application.L38FindAllAnagramsInString.executor": "Run",
-    "Application.L3GroupAnagram.executor": "Run",
-    "Application.L3LongestSubstringWithoutRepeatingChars.executor": "Run",
-    "Application.L3ValidAnagram.executor": "Run",
-    "Application.L424LongestRepeatingCharacterReplacement.executor": "Run",
-    "Application.L523ContinousSubarraySum.executor": "Run",
-    "Application.L523ContinuousSubarraySum.executor": "Run",
-    "Application.L634MaxAvgSubArray.executor": "Run",
-    "Application.L904FruitsIntoBasket.executor": "Debug",
-    "Application.L930BinarySubArrayWithSum.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main2.executor": "Run",
-    "Application.Main3.executor": "Debug",
-    "Application.Main4 (1).executor": "Run",
-    "Application.Main4.executor": "Run",
-    "Application.Main5.executor": "Run",
-    "Application.MultiThreadingMain.executor": "Run",
-    "Application.SubArraySumEqualsK.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ankitraj/Projects/dsa-practice",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.build.tools.auto.reload": "ALL",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.L131PalindromePartitioning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L1624LargestSubstringBetweenEqualChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L1TwoSums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L303RangeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L340LongestSubstringWithAtMostKDistinctCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L38FindAllAnagramsInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L3GroupAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L3LongestSubstringWithoutRepeatingChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L3ValidAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L424LongestRepeatingCharacterReplacement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L523ContinousSubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L523ContinuousSubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L634MaxAvgSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L904FruitsIntoBasket.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.L930BinarySubArrayWithSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreadingMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySumEqualsK.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ankitraj/Projects/dsa-practice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="practice" />
@@ -245,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781972336857</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="clean up">
+      <option name="closed" value="true" />
+      <created>1781972448274</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1781972448274</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
