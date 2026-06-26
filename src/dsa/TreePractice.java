@@ -6,6 +6,96 @@ import java.util.Stack;
 
 public class TreePractice {
 
+    public static void main(String[] args) {
+
+        TreePractice tree = new TreePractice();
+
+        TreeNode root = tree.createTree();
+
+        tree.printTree(root);
+
+        System.out.println();
+
+        System.out.println("Height = " + tree.height(root));
+
+        System.out.println("Count = " + tree.count(root));
+
+        System.out.println("Max = " + tree.maxValue(root));
+
+        System.out.println();
+
+        System.out.print("Preorder : ");
+        tree.preorder(root);
+
+        System.out.println();
+
+        System.out.print("Inorder : ");
+        tree.inorder(root);
+
+        System.out.println();
+
+        System.out.print("Postorder : ");
+        tree.postorder(root);
+
+        System.out.println();
+
+        System.out.print("DFS Stack : ");
+        tree.dfsStack(root);
+
+        System.out.println();
+
+        System.out.print("BFS : ");
+        tree.bfs(root);
+
+        System.out.println();
+
+        System.out.println("Level Order");
+        tree.bfsLevelWise(root);
+
+        System.out.println();
+
+        System.out.println("Diameter = " + tree.diameter(root));
+    }
+
+    TreeNode createTree() {
+
+        TreeNode root = new TreeNode(1);
+
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+
+        root.left.left = new TreeNode(4);
+        root.left.right = new TreeNode(5);
+
+        root.right.left = new TreeNode(6);
+        root.right.right = new TreeNode(7);
+
+        return root;
+    }
+
+    void printTree(TreeNode root) {
+        printTree(root, "", true);
+    }
+
+    void printTree(TreeNode node,
+                   String indent,
+                   boolean isLast) {
+
+        if (node == null) {
+            return;
+        }
+
+        System.out.println(
+                indent +
+                        (isLast ? "└── " : "├── ") +
+                        node.val);
+
+        indent += isLast ? "    " : "│   ";
+
+        printTree(node.left, indent, false);
+        printTree(node.right, indent, true);
+    }
+
     int height(TreeNode node) {
         if (node == null) {
             return 0;
